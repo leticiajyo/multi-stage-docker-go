@@ -1,1 +1,3 @@
-# multi-stage-docker-go
+# Multi-stage docker build Go
+
+Docker image: leticiajyo/codeeducation
